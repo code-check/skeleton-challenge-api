@@ -1,0 +1,8 @@
+﻿build:
+  - "build commands here"
+web:
+  command: "command to run server"
+  port: "port to run"
+  dir: application
+  console: true
+test: mocha specifications/*

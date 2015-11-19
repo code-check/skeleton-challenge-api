@@ -1,0 +1,11 @@
+﻿{
+    "editable": [
+        "ideas.md",
+        "application/*"
+    ],
+    "excludes": [
+        ".gitignore",
+        "challenge.json"
+    ],
+    "test": "mocha specifications/*"
+}
