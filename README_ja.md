@@ -13,8 +13,9 @@
 - SQLite データベース
  
 ### エンドポイント
-APIs to implement in this challenge are listed below, written in format of `Method Path`. Some paths contain parameter with colon as prefix like `:id` which means it is variable.
-このチャレンジにおいてAPIの実行は以下のリストにあり、`Method Path`のフォーマットにおいて作成されています。パスに含まれるパラメータは終わりにコロンをつけてください。例）`:id` which means it is variable.
+
+このチャレンジにおいてAPIの実行は以下のリストにあり、`Method Path`のフォーマットにおいて作成されています。パスに含まれるパラメータは`:id`のように終わりにコロンをつけてください。これは変数を意味します。
+
 - GET /path/of/api
     - some description
 - POST /path/of/api
