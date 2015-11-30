@@ -41,7 +41,6 @@
 SQLiteはデータベースとして提供され、そのデータベースファイルは'database/service.db'.です。
 データベース表示は[database/create.sql](database/create.sql).において提供される。
 ### HTTPデータタイプ
-Any data in the body, either request or response, should be JSON.
 bodyだけでなくrequestやresponse、いかなるデータもJSONです。
 
 ## api-first-specの実行方法
