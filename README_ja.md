@@ -39,7 +39,7 @@
 
 ### データベース
 SQLiteはデータベースとして提供され、そのデータベースファイルは'database/service.db'.です。
-データベース表示は[database/create.sql](database/create.sql).において提供される。
+データベース表示は[database/create.sql](database/create.sql).において提供されます。
 ### HTTPデータタイプ
 bodyだけでなくrequestやresponse、いかなるデータもJSONです。
 
