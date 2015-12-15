@@ -25,7 +25,7 @@
     - some description
 - ...
 
-指定されたAPIの実行に関するの詳細は[specifications](specifications)というフォルダの中に書かれています。
+指定されたAPIの実行に関するの詳細は[specifications](specifications)というフォルダの中に作成されています。
 
 ## 提示
 
